@@ -1,8 +1,0 @@
-name = "daily-journal-app"
-main = "src/index.js"
-compatibility_date = "2023-12-01"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "daily-journal-db"
-database_id = "daily-journal-db"
