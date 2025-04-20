@@ -1,0 +1,8 @@
+{
+  "buildCommand": "next build",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "github": {
+    "silent": true
+  }
+}
